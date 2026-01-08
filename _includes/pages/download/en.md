@@ -1,0 +1,31 @@
+## Leek-OS Downloads
+
+Leek-OS is currently in **active development**.
+
+---
+
+### 🟢 Stable Release  
+**Latest Stable**
+
+[⬇ **Download Stable**](https://github.com/Leek-OS/Releases/releases/latest){: .btn .btn-primary style="color:#ffffff !important;font-weight:700;" }
+
+<!-- STABLE_UPDATED_START -->
+_Last updated: Never_
+<!-- STABLE_UPDATED_END -->
+
+---
+
+### 🧪 Beta Build  
+**Nightly**
+
+- 🧪 Early feature access
+- ⚠ Possible instability
+- 🔧 Intended for testers and advanced users
+
+<!-- BETA_BUTTON_START -->
+[⬇ **Download Latest Beta**](https://example.invalid){: .btn .btn-primary style="color:#ffffff !important;font-weight:700;" }
+<!-- BETA_BUTTON_END -->
+
+<!-- BETA_UPDATED_START -->
+_Last updated: 1970-01-01T00:00:00Z_
+<!-- BETA_UPDATED_END -->
