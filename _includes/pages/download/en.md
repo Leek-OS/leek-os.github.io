@@ -23,9 +23,9 @@ _Last updated: Never_
 - 🔧 Intended for testers and advanced users
 
 <!-- BETA_BUTTON_START -->
-[⬇ **Download Latest Beta**](https://example.invalid){: .btn .btn-primary style="color:#ffffff !important;font-weight:700;" }
+[⬇ **Download Latest Beta**](https://github.com/Leek-OS/Releases/releases/download/Leek-OS_Nightly/Leek-OS-V4.4.0-beta2.zip){: .btn .btn-primary style="color:#ffffff !important;font-weight:700;" }
 <!-- BETA_BUTTON_END -->
 
 <!-- BETA_UPDATED_START -->
-_Last updated: 1970-01-01T00:00:00Z_
+_Last updated (OTA): 2026-01-15T07:21:48Z_
 <!-- BETA_UPDATED_END -->
